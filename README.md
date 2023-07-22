@@ -34,7 +34,7 @@ Use linear regression to predict the future waiter tips (hint: don’t forget to
 ## Problem Set 3
 
 Payments Fraud Detection
-Use data set “Fraud.csv”
+Use the data set “Fraud.csv”
 Data description below.
 1.	step: represents a unit of time where 1 step equals 1 hour
 2.	type: type of online transaction
@@ -43,8 +43,8 @@ Data description below.
 5.	oldbalanceOrg: balance before the transaction
 6.	newbalanceOrig: balance after the transaction
 7.	nameDest: recipient of the transaction
-8.	oldbalanceDest: initial balance of recipient before the transaction
-9.	newbalanceDest: the new balance of recipient after the transaction
+8.	oldbalanceDest: initial balance of the recipient before the transaction
+9.	newbalanceDest: the new balance of the recipient after the transaction
 10.	isFraud: fraud transaction
 
 Part 1
@@ -54,5 +54,3 @@ Part 1
 Part 2
 Use Decision Tree algorithm to train a classification model to classify fraud and non-fraud transactions.  
 Print out a table with the predictions.
-
-![image](https://github.com/loinguyen1/Machine-Learning-Practices/assets/127418660/f81df624-4122-4a51-9270-2c3c372b67dc)
